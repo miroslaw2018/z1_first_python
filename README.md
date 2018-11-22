@@ -3,3 +3,5 @@ Demonstration project for Chalmers University of Technology, Sweden, Z-program
 
 
 # Please send your pull requests to miroslaw.staron@gu.se
+
+Now I added one more line as another user
